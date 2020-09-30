@@ -34,6 +34,6 @@ sponsor:
         - label: email
           value: anton@strogonoff.name
 status: pending
-timeProposed: 2020-09-30T04:49:31.085Z
+timeProposed: 2020-09-30T04:50:34.548Z
 registerManagerNotes: Test!
-disposition: withdrawn
+disposition: !<tag:yaml.org,2002:js/undefined> ''
