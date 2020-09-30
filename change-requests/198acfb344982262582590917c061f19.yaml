@@ -7,6 +7,7 @@ proposals:
     payload:
       identifier: 141
       name: Test!! 24aassss
+      description: dda
 sponsor:
   role: owner
   name: Tester
