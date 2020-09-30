@@ -8,7 +8,7 @@ proposals:
       identifier: 314
       informationSource: []
       remarks: ''
-      description: ''
+      description: Test
       extent:
         name: ''
         'n': 0
@@ -16,7 +16,7 @@ proposals:
         s: 0
         w: 0
       operationVersion: ''
-      name: Test
+      name: Test item!
 sponsor:
   role: owner
   name: Tester
