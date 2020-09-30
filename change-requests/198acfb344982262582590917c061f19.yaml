@@ -6,7 +6,7 @@ proposals:
     type: addition
     payload:
       identifier: 141
-      name: Test!
+      name: Test!!
 sponsor:
   role: owner
   name: Tester
