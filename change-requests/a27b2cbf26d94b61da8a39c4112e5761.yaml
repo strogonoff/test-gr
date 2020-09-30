@@ -1,7 +1,22 @@
 id: a27b2cbf26d94b61da8a39c4112e5761
 justification: ''
 timeStarted: 2020-09-30T09:33:42.196Z
-proposals: {}
+proposals:
+  coordinate-ops--transformation/ecaceb9bc38a8ecbcab28663bb9a94c5:
+    type: addition
+    payload:
+      identifier: 314
+      informationSource: []
+      remarks: ''
+      description: ''
+      extent:
+        name: ''
+        'n': 0
+        e: 0
+        s: 0
+        w: 0
+      operationVersion: ''
+      name: Test
 sponsor:
   role: owner
   name: Tester
