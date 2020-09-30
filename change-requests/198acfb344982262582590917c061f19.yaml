@@ -23,7 +23,7 @@ proposals:
         s: 0
         w: 0
       operationVersion: ''
-      name: fd
+      name: fdss
 sponsor:
   role: owner
   name: Tester
