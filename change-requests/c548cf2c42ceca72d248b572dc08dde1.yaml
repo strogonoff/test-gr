@@ -1,7 +1,21 @@
 id: c548cf2c42ceca72d248b572dc08dde1
-justification: Test
+justification: ''
 timeStarted: 2020-09-30T04:34:02.673Z
-proposals: {}
+proposals:
+  coordinate-ops--transformation/d36bf8a44767f9d1faf2f26cf285ae4e:
+    type: addition
+    payload:
+      identifier: 231
+      informationSource: []
+      remarks: ''
+      description: Test
+      extent:
+        name: ''
+        'n': 0
+        e: 0
+        s: 0
+        w: 0
+      operationVersion: ''
 sponsor:
   role: owner
   name: Tester
