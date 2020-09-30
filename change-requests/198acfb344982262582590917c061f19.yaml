@@ -8,6 +8,21 @@ proposals:
       identifier: 141
       name: Test!! 24aasssss
       description: dda
+  coordinate-ops--transformation/bf0f6a5ee3a909c991e7b390db1df408:
+    type: addition
+    payload:
+      identifier: 0
+      informationSource: []
+      remarks: ''
+      description: ''
+      extent:
+        name: ''
+        'n': 0
+        e: 0
+        s: 0
+        w: 0
+      operationVersion: ''
+      name: fd
 sponsor:
   role: owner
   name: Tester
